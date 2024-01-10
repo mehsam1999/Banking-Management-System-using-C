@@ -1,0 +1,128 @@
+1st kaaj==> password dite hobe(wrong --> 12344)
+        ==> 1 diye try again
+        ==> correct hoilo --> thisismehsam
+
+2nd kaaj==> create new account
+        ==> 1 dite hobe
+        ==> ajker date 01/08/2024
+        ==> account number 20241
+        ==> name Kalam
+	  ==> date of birth 08/09/1990
+	  ==> age ber hoye ashbe
+	  ==> address Nikunja
+	  ==> citizenship number 19901234
+	  ==> phone number 01817652345
+	  ==> account type Saving
+	  ==> amount 25000
+
+3rd kaaj==> 1 dite hobe
+	  ==> create new account
+	  ==> 1 dite hobe
+	  ==> ajker date 01/08/2024
+        ==> account number 20242
+        ==> name Farah
+	  ==> date of birth 12/05/2001
+	  ==> age ber hoye ashbe
+	  ==> address Mirpur
+	  ==> citizenship number 20011234
+	  ==> phone number 01552345687
+	  ==> account type Current
+	  ==> amount 170000
+
+4th kaaj==> 1 dite hobe
+	  ==> create new account
+	  ==> 1 dite hobe
+	  ==> ajker date 01/08/2024
+        ==> account number 20243
+        ==> name Abbas
+	  ==> date of birth 02/22/1980
+	  ==> age ber hoye ashbe
+	  ==> address Farmgate
+	  ==> citizenship number 19801234
+	  ==> phone number 01887653426
+	  ==> account type Fixed1
+	  ==> amount 25000000
+
+5th kaaj==> 1 dite hobe
+	  ==> customer er list dekhte hobe
+	  ==> 6 dite hobe
+
+6th kaaj==> 1 dite hobe
+	  ==> information update korte hobe
+	  ==> 2 dite hobe
+	  ==> acoount number 20242
+	  ==> address change korte chai tai 1 dite hobe
+	  ==> new address Jhigatola
+
+7th kaaj==> 1 dite hobe
+	  ==> customer er list dekhte hobe je update holo kina
+	  ==> 6 dite hobe
+
+8th kaaj==> 1 dite hobe
+	  ==> information update korte hobe
+	  ==> 2 dite hobe 
+	  ==> acoount number 20243
+	  ==> phone number change korte chai tai 2 dite hobe
+	  ==> new phone number 01876345267
+
+9th kaaj==> 1 dite hobe
+	  ==> customer er list dekhte hobe je update holo kina
+	  ==> 6 dite hobe
+
+10th kaaj==> file e jeye dekhbo shob edit hoyeche kina
+
+11th kaaj==> 1 dite hobe
+	   ==> transaction korte hobe
+	   ==> 3 dite hobe
+	   ==> saving account e transaction kore dekhbo 20241
+	   ==> deposit korbo tai 1 dite hobe
+	   ==> amount deposit 100000
+
+12th kaaj==> file e jeye check korbo first person er amount total    		 125000 hobe
+
+13th kaaj==> 1 dite hobe
+	   ==> transaction korte hobe
+	   ==> 3 dite hobe
+	   ==> current account e transaction kore dekhbo 20242
+	   ==> withdraw korbo tai 2 dite hobe
+	   ==> amount withdraw 5000
+
+14th kaaj==> file e jeye check korbo second person er amount total    		 165000 hobe
+
+15th kaaj==> 1 dite hobe
+	   ==> transaction korte hobe
+	   ==> 3 dite hobe
+	   ==> fixed account e transaction kore dekhbo 20243
+	   ==> jehetu fixed account tai transaction hobe na
+
+16th kaaj==> 1 dite hobe
+	   ==> kono ekta particular account er detail dekhte chai
+	   ==> 4 dite hobe
+	   ==> account number diye check korbo 1 dibo
+	   ==> account number 20241
+	   ==> details show korbe
+	   ==> saving account tai interest dekhabe
+	   ==> year 3 bochor
+	   ==> interest show korbe
+
+17th kaaj==> 1 dite hobe
+	   ==> kono ekta particular account er detail dekhte chai
+	   ==> 4 dite hobe
+	   ==> name diye check korbo 2 dibo
+	   ==> name Farah
+	   ==> details show korbe
+
+18th kaaj==> 1 dite hobe
+	   ==> ekta existing account delete korbo
+	   ==> 5 dite hobe
+	   ==> account number 20242
+
+19th kaaj==> file e jeye check korbo second person remove hoyeche
+
+20th kaaj==> 1 dite hobe
+	   ==> customer er list dekhte hobe
+	   ==> 6 dite hobe
+
+21th kaaj==> 1 dite hobe
+	   ==> exit kore dibo program
+	   ==> 7 dite hobe
